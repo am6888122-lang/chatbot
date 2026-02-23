@@ -21,7 +21,7 @@
 
 <div align="center">
   <img src="Screenshot/Screenshot_1771875966.png" alt="Chat Screen" width="250"/>
-  <img src="screenshots/settings_screen.png" alt="Settings Screen" width="250"/>
+  <img src="Screenshot/Screenshot_1771875974.png" alt="Settings Screen" width="250"/>
   <img src="screenshots/theme_screen.png" alt="Theme Screen" width="250"/>
 </div>
 
