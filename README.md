@@ -22,7 +22,11 @@
 <div align="center">
   <img src="Screenshot/Screenshot_1771875966.png" alt="Chat Screen" width="250"/>
   <img src="Screenshot/Screenshot_1771875974.png" alt="Settings Screen" width="250"/>
-  <img src="screenshots/theme_screen.png" alt="Theme Screen" width="250"/>
+  <img src="Screenshot/Screenshot_1771875978.png" alt="Theme Screen" width="250"/>
+  <img src="Screenshot/Screenshot 1771875981.png" alt="Chat Screen" width="250"/>
+  <img src="Screenshot/Screenshot_1771875995.png" alt="Settings Screen" width="250"/>
+  <img src="Screenshot/Screenshot_1771876006.png" alt="Theme Screen" width="250"/>
+  <img src="Screenshot/Screenshot_1771876011.png" alt="Theme Screen" width="250"/>
 </div>
 
 ---
